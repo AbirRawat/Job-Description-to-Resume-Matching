@@ -1,2 +1,3 @@
 # Job-Description-to-Resume-Matching
-A System with a simple GUI, used to input Job Description and provide the model with multiple Resumes. With the best matching scores, you can check the BEST FIT Resumes for the JD.
+Python-based Job Description and Resume Matching System using Machine Learning and Cosine Similarity to automate resume-job description matching and streamline recruitment.
+Technologies: Machine Learning, NLP, Python libraries such as Flask, Doc2Vec, PyPDF2, Scikit-learn
